@@ -1,0 +1,8 @@
+---
+title: 'Layanan Yahoo! Messenger Bakal Ditutup Juli Mendatang'
+date: Sat, 09 Jun 2018 00:59:40 +0000
+draft: false
+tags: ['News', 'Yahoo', 'Yahoo Messenger']
+---
+
+Masih ingat dengan Yahoo! Messenger? Biasa disingkat YM, layanan old-skool yang dirilis pada 1998 silam sangat populer pada masanya. User Yahoo! lawas -seperti saya misalnya 😅- pasti kenal lah ya atau pernah menggunakannya. Setelah berkali-kali dihantam gempuran layanan chatting kekinian lain seperti BBM, WhatsApp, Line dan lain-lain, Yahoo! hari ini resmi mengumumkan bahwa YM akan ditutup pada 17 Juli 2018 mendatang. Dikutip dari halaman [helpdesk](https://help.yahoo.com/kb/messenger/SLN28776.html) di situs Yahoo!, user yang saat ini masih aktif diberi kesempatan untuk menggunakannya dengan normal, bahkan chat historynya juga masih bisa diunduh selama 6 bulan ke depan. Penutupan YM ini juga tidak berpengaruh terhadap layanan Yahoo! lainnya seperti Yahoo! Mail, Yahoo! Fantasy dan lain-lain. User juga masih tetap bisa menggunakan Yahoo! ID nya untuk layanan produk Yahoo! seperti biasa. Meski tidak disebutkan ada layanan pengganti pasca ditutupnya YM nanti, Yahoo! sendiri merekomendasikan user untuk menjajal versi beta dari Yahoo! Squirrel, yakni layanan chat grup yang tengah dalam pengembangan. Well, meskipun terakhir kali saya pakai YM itu sudah beberapa abad yang lalu, tapi terharu juga sih huhu karena YM banyak menyimpan nostagila dan kenangan-kenangan masa lalu. Selamat tinggal YM.
