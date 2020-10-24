@@ -15,7 +15,7 @@
           Personal Site
         </h1>
         <h4 class="subheading">
-          Writings, Projects, About
+          Writings, Projects, About Me
         </h4>
       </v-col>
     </v-row>
